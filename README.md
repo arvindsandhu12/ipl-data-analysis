@@ -21,8 +21,7 @@ This project explores and visualizes Indian Premier League (IPL) data to derive 
 - Visuals: Bar charts, line plots, filters, pie charts
 
 ## 🚀 How to Use
-1. Open the `.ipynb` file in Jupyter Notebook to view EDA
-2. Open the `.pbix` file in Power BI Desktop to explore dashboards
+. Open the `.pbix` file in Power BI Desktop to explore dashboards
 
 ---
 
